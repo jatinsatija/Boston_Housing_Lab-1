@@ -9,7 +9,9 @@ The goal is to preprocess the data, perform exploratory data analysis, and visua
 # Data Preparation
 
 Loading the Data: The dataset is loaded from a CSV file into a PySpark DataFrame, with headers inferred and schema automatically detected.
+
 Initial Data Inspection: Display the first few rows of the DataFrame and print the schema to understand the structure and types of data.
+
 Observation Count: Calculate and print the number of observations in the dataset.
 
 # Data Cleaning
